@@ -33,59 +33,59 @@
      - [VERSIONING](#versioning)     
 
 
-### VBA
-#### Restaurant Rater
-##### Description
+## VBA
+### Restaurant Rater
+#### Description
 jfklsdjflkjsdlfjljfljlkfjlksdjf
-##### How to run program
+#### How to run program
 
-##### files used
+#### files used
 
-##### Notes
+#### Notes
 
-##### Versioning
+#### Versioning
 
-#### Bracelet Maker
-##### Description
+### Bracelet Maker
+#### Description
 
-##### How to run program
+#### How to run program
 
-##### files used
+#### files used
 
-##### Notes
+#### Notes
 
-##### Versioning
+#### Versioning
 
-#### Customer Analysis
-##### Description
+### Customer Analysis
+#### Description
 
-##### How to run program
+#### How to run program
 
-##### files used
+#### files used
 
-##### Notes
+#### Notes
 
-##### Versioning
+#### Versioning
 
-### R
-#### Videogame Sales
-##### Description
+## R
+### Videogame Sales
+#### Description
 
-##### How to run program
+#### How to run program
 
-##### files used
+#### files used
 
-##### Notes
+#### Notes
 
-##### Versioning
+#### Versioning
 
-#### sp500 Analysis Using MSGARCH
-##### Description
+### sp500 Analysis Using MSGARCH
+#### Description
 
-##### How to run program
+#### How to run program
 
-##### files used
+#### files used
 
-##### Notes
+#### Notes
 
-##### Versioning
+#### Versioning
