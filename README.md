@@ -14,4 +14,35 @@
 ## Languages
 
 ### VBA
+#### Restaurant Rater
+##### Description
 
+##### How to run program
+
+##### files used
+
+##### Notes
+
+##### Versioning
+
+#### Bracelet Maker
+##### Description
+
+##### How to run program
+
+##### files used
+
+##### Notes
+
+##### Versioning
+
+#### SQL Customer Analysis
+##### Description
+
+##### How to run program
+
+##### files used
+
+##### Notes
+
+##### Versioning
