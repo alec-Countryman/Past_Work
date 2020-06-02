@@ -40,7 +40,7 @@ jfklsdjflkjsdlfjljfljlkfjlksdjf
 #### How to run program
 
 #### files used
-
+[Contribution guidelines for this project](GitHub Projects/VBA/API Restaurant Rater.xlsm)
 #### Notes
 
 #### Versioning
