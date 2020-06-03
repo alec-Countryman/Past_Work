@@ -60,7 +60,7 @@ Credit goes to Colby McGrath for assistance in debugging.
 First, download the noted file below and save it as "Bracelet Maker.xlsm." Once this is complete everything is done through a single button on the "Materials" workbook. This button will clear any redundant books or sheets that may inhibit the execution of the macros. 
 
 #### Files used
-[Bracelet Maker](GitHub Projects/VBA/Bracelet Maker.xlsm)
+[Bracelet Maker](GitHub%20Projects/VBA/Bracelet%20Maker.xlsm)
 #### Notes
 The prices and colors can be modified to whatever desired. To do this, just change them directly on the "Materials" workbook. 
 
