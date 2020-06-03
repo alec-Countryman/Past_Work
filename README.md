@@ -5,32 +5,32 @@
      - [HOW TO RUN PROGRAM](#How-to-run-program)
      - [FILES USED](#Files-used)
      - [NOTES](#Notes)
-     - [VERSIONING](#versioning)
+     
   - [PROJECT 2 - Braclet Maker](#Braclet-Maker)
      - [DESCRIPTION](#Description)
      - [HOW TO RUN PROGRAM](#How-to-run-program)
      - [FILES USED](#Files-used)
      - [NOTES](#Notes)
-     - [VERSIONING](#versioning)
+
   - [PROJECT 3 - Customer Analysis](#Customer-Analysis)
      - [DESCRIPTION](#Description)
      - [HOW TO RUN PROGRAM](#How-to-run-program)
      - [FILES USED](#Files-used)
      - [NOTES](#Notes)
-     - [VERSIONING](#versioning)     
+    
 - [R](#R)
   - [PROJECT 1 - Videogame Sales](#Videogame-Sales)
      - [DESCRIPTION](#Description)
      - [HOW TO RUN PROGRAM](#How-to-run-program)
      - [FILES USED](#Files-used)
      - [NOTES](#Notes)
-     - [VERSIONING](#versioning)
+
   - [PROJECT 2 - sp500 Analysis Using MSGARCH](#sp500-Analysis-Using-MSGARCH)
      - [DESCRIPTION](#Description)
      - [HOW TO RUN PROGRAM](#How-to-run-program)
      - [FILES USED](#Files-used)
      - [NOTES](#Notes)
-     - [VERSIONING](#versioning)     
+   
 
 
 ## VBA
@@ -66,8 +66,9 @@ The prices and colors can be modified to whatever desired. To do this, just chan
 
 
 ### Customer Analysis
-
+![](GitHub%20Projects/Images/CustomerAnalysis.png)
 #### Description
+
 
 #### How to run program
 
