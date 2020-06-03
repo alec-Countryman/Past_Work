@@ -90,9 +90,9 @@ Additional credits belong to Jacob Swinton, Aaron Dzaboff, Colby McGrath for the
 After downloading the R file and the csv file listed in the files used portion set the working directory to contain the csv file. Once this is done load the required libraries in lines 1 - 7. The code can be executed now in a chunk or line-by-line. 
 
 #### Files used 4
-[Report](GitHub%20Projects/R/final_1.docx)
-[Video Game Code](GitHub%20Projects/R/Video%20Game%20Sales.R)
-[Video Game Data](GitHub%20Projects/R/vgsales-12-4-2019.csv)
+-[Report](GitHub%20Projects/R/final_1.docx)
+-[Video Game Code](GitHub%20Projects/R/Video%20Game%20Sales.R)
+-[Video Game Data](GitHub%20Projects/R/vgsales-12-4-2019.csv)
 #### Notes 4
 
 
@@ -106,7 +106,7 @@ Credits to Kelsey Petrich for lines 11 to 112 and Elliott Newman for lines 95 to
 The only required file for code execution is the R file. Data is pulled within the code from an external source. Once the R file is downloaded, load the required packages from lines 1 to 5 and the code may now be ran in chunks or line-by-line.
 
 #### Files used 5
-[Report](GitHub%20Projects/R/Project%20Report.pdf)
-[SP500 Analysis Code](GitHub%20Projects/R/SP500%20Analysis%20Using%20MSGARCH%20Models.R)
+-[Report](GitHub%20Projects/R/Project%20Report.pdf)
+-[SP500 Analysis Code](GitHub%20Projects/R/SP500%20Analysis%20Using%20MSGARCH%20Models.R)
 #### Notes 5
 
