@@ -83,20 +83,29 @@ Download the file listed below and save it. Navigate to the "Instructions" sheet
 ## R
 ### Videogame Sales
 #### Description 4
+This project analyzes sales of video games from the 1970s to the end of 2019. This project includes data cleaning, summary tables, various plots, and correlations between features. The analysis was discussed in a report which was a deliverable at the time and can be used for more information on the methods used in code. This is the file named "final_1.docx" listed in the files uesd section. 
+Additional credits belong to Jacob Swinton, Aaron Dzaboff, Colby McGrath for their combined collaboration on this project.
 
 #### How to run program 4
+After downloading the R file and the csv file listed in the files used portion set the working directory to contain the csv file. Once this is done load the required libraries in lines 1 - 7. The code can be executed now in a chunk or line-by-line. 
 
 #### Files used 4
-
+[Report](GitHub%20Projects/R/final_1.docx)
+[Video Game Code](GitHub%20Projects/R/Video%20Game%20Sales.R)
+[Video Game Data](GitHub%20Projects/R/vgsales-12-4-2019.csv)
 #### Notes 4
 
 
 ### sp500 Analysis Using MSGARCH
 #### Description 5
+The SP500 index was analyzed using a variety of models and distributions to aid in determining the best fitting model. Additional metrics were used to gauge the performance of each model. Value at risk for backtesting was used at both 1% and 5% risk levels. All these were used to select the best model and a plot was included to show the backtesting results visually.
+Credits to Kelsey Petrich for lines 11 to 112 and Elliott Newman for lines 95 to 112. Credit to both for their assistance in the reporting as well.  
 
 #### How to run program 5
+The only required file for code execution is the R file. Data is pulled within the code from an external source. Once the R file is downloaded, load the required packages from lines 1 to 5 and the code may now be ran in chunks or line-by-line.
 
 #### Files used 5
-
+[Report](GitHub%20Projects/R/Project%20Report.pdf)
+[SP500 Analysis Code](GitHub%20Projects/R/SP500%20Analysis%20Using%20MSGARCH%20Models.R)
 #### Notes 5
 
