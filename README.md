@@ -68,16 +68,15 @@ The prices and colors can be modified to whatever desired. To do this, just chan
 ### Customer Analysis
 ![](GitHub%20Projects/Images/CustomerAnalysis.png)
 #### Description
-From three different dataset sizes, the worksheets in the workbook will be updated with customers, orders, and payments. Once the database has been updated multiple queries can be run on them. The first, all customers who have yet to make a payment. Second, orders with an outstanding balance that is entered by the user via an input box. Lastly, all customers orders that are greater than a value entered into an input box. Once on of these three otpions is chosen the "Results" sheet will be populated with the pertinent information.  
+From three different dataset sizes, the worksheets in the workbook will be updated with customers, orders, and payments. Once the database has been updated multiple queries can be run on them. The first, all customers who have yet to make a payment. Second, orders with an outstanding balance that is entered by the user via an input box. Lastly, all customers orders that are greater than a value entered into an input box. Once on of these three otpions is chosen the "Results" sheet will be populated with the pertinent information.
+I (Alec) performed the coding necessary in populating the "results" sheet. All other coding was done by Colby McGrath. 
 
 #### How to run program
 Download the file listed below and save it. Navigate to the "Instructions" sheet and first update database with the user choice of dataset size. After that select the desired results to be populated via one of the three buttons. 
 
 #### Files used
-[Customer Analysis](GitHub%20Projects/VBA/SQL%20Customer%20Analysis.xlsm)
+[Customer Analysis](GitHub%20Projects/VBA/SQL%20Customer%20Analyzer.xlsm)
 #### Notes
-
-#### Versioning
 
 
 
