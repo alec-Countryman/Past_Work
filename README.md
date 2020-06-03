@@ -97,6 +97,7 @@ After downloading the R file and the csv file listed in the files used portion s
 
 
 ### sp500 Analysis Using MSGARCH
+![](GitHub%20Projects/Images/SP500Backtest.png)
 #### Description 5
 The SP500 index was analyzed using a variety of models and distributions to aid in determining the best fitting model. Additional metrics were used to gauge the performance of each model. Value at risk for backtesting was used at both 1% and 5% risk levels. All these were used to select the best model and a plot was included to show the backtesting results visually.
 Credits to Kelsey Petrich for lines 11 to 112 and Elliott Newman for lines 95 to 112. Credit to both for their assistance in the reporting as well.  
